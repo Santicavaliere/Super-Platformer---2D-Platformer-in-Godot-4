@@ -15,6 +15,7 @@ Lo más valioso de este proyecto es la estructura del código, diseñada para se
 * **Sistema de Eventos:** Uso de `Signals` para comunicar UI, Player y Enemigos sin dependencias rígidas.
 
 ![Estructura de Nodos del Player](media/nodos_player.png)
+
 *Estructura de nodos del Player mostrando la StateMachine y sus estados.*
 
 ### 🕹️ Game Feel (Jugabilidad)
