@@ -4,7 +4,7 @@
 
 ## 🎮 Sobre el Proyecto
 Este proyecto es un plataformas 2D desarrollado en Godot 4.4 utilizando GDScript. 
-El objetivo principal fue implementar una arquitectura de software escalable y robusta, aplicando principios de Ingeniería de Software.
+El objetivo principal fue implementar una arquitectura aplicando principios de Ingeniería de Software.
 El juego cuenta con sistema de niveles, persistencia de datos (High Score), audio manager y mecánicas de "Game Feel" avanzadas.
 
 ## ⚙️ Aspectos Técnicos Destacados
